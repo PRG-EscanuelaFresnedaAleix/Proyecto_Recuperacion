@@ -1,0 +1,16 @@
+controller\Juego.class
+model\ObjetoProtector.class
+model\Escenario.class
+model\Movimiento.class
+view\Principal.class
+model\Partida.class
+model\PersonajeMaligno.class
+model\Usuario.class
+model\Personaje.class
+model\Coordenada.class
+model\Serpiente.class
+model\IndianaJones.class
+model\ObjetoVidaExtra.class
+model\Gema.class
+model\Ranking$1.class
+model\Ranking.class
